@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-import "./first.css";
+import "../styles/first.css";
 import axios from "axios";
 import fileDownload from "js-file-download";
 import { Toaster, toast } from "react-hot-toast";
 import Lottie from "lottie-react";
-import Anima1 from "./Images/anima1.json";
-import Anima2 from "./Images/Anima2.json";
+import Anima1 from "../Images/anima1.json";
+import Anima2 from "../Images/Anima2.json";
 
 function Hero() {
   const [URL, setURL] = useState("");

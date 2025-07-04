@@ -1,10 +1,10 @@
 import React from "react";
-import Navbar from "./navbar";
-import First from "./first";
-import Second from "./second";
-import "./App.css";
-import Third from "./third";
-import Footer from "./Footer";
+import Navbar from "./scripts/navbar";
+import First from "./scripts/first";
+import Second from "./scripts/second";
+import "./styles/App.css";
+import Third from "./scripts/third";
+import Footer from "./scripts/Footer";
 
 function App() {
   return (

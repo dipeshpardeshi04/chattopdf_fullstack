@@ -1,6 +1,6 @@
 import React from "react";
-import "./third.css";
-import vio from "./Images/MYFULLSTACK.mp4";
+import "../styles/third.css";
+import vio from "../Images/MYFULLSTACK.mp4";
 const Third = () => {
   return (
     <>
